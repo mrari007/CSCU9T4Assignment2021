@@ -1,0 +1,292 @@
+Jason Adair (2015), Title-B-0. journal-s, (vol 9, iss 8), ACM, doi:533/49. Added on: 06/02/2021
+Heidi Brynjolfsdottir (1999), Title-A-0, at Conference-3(Location-U), ACM, doi:765/1773. Added on: 23/03/2021
+Jason Adair (2006), Title-D-0, in book-a, ACM, ed: Mina Mouse, doi:202/1031. Added on: 08/05/2021
+Kevin Bacon (2007), Title-G-1. journal-x, (vol 5, iss 5), IEEE, doi:580/491. Added on: 13/02/2021
+Kevin Bacon (2019), Title-C-1, at Conference-2(Location-R), Springer, doi:611/1124. Added on: 23/11/2021
+Jason Adair (2016), Title-F-1, in book-g, Springer, ed: Mina Mouse, doi:741/1240. Added on: 14/06/2021
+Saemi Haraldsson (2004), Title-F-2. journal-z, (vol 5, iss 1), Springer, doi:1045/875. Added on: 27/10/2021
+Heidi Brynjolfsdottir (2009), Title-A-2, at Conference-3(Location-Y), ACM, doi:71/902. Added on: 19/10/2021
+Kevin Bacon (2008), Title-B-2, in book-f, Springer, ed: Ariel, doi:884/1342. Added on: 25/09/2021
+Jason Adair (2008), Title-D-3. journal-s, (vol 2, iss 5), Springer, doi:173/1568. Added on: 04/09/2021
+Saemi Haraldsson (2005), Title-H-3, in book-g, ACM, ed: Ariel, doi:1029/600. Added on: 27/06/2021
+Heidi Brynjolfsdottir (2018), Title-G-4. journal-q, (vol 7, iss 1), ACM, doi:628/863. Added on: 11/08/2021
+Saemi Haraldsson (2018), Title-D-4, at Conference-7(Location-I), Springer, doi:1453/922. Added on: 05/11/2021
+Saemi Haraldsson (2002), Title-F-4, in book-a, IEEE, ed: Elsa, doi:1011/1591. Added on: 02/11/2021
+Saemi Haraldsson (2001), Title-F-5. journal-p, (vol 6, iss 6), IEEE, doi:291/626. Added on: 23/10/2021
+Kevin Bacon (2012), Title-A-5, at Conference-8(Location-P), Springer, doi:1231/565. Added on: 03/05/2021
+Kevin Bacon (2020), Title-G-5, in book-f, Springer, ed: Donald Duck, doi:695/1883. Added on: 04/08/2021
+Kevin Bacon (2016), Title-A-6. journal-z, (vol 5, iss 7), Springer, doi:888/1206. Added on: 07/07/2021
+Jason Adair (2005), Title-E-6, at Conference-4(Location-O), ACM, doi:914/1414. Added on: 19/04/2021
+Kevin Bacon (2012), Title-H-6, in book-h, Springer, ed: Mina Mouse, doi:808/1852. Added on: 26/04/2021
+Jason Adair (2014), Title-A-7. journal-t, (vol 3, iss 1), IEEE, doi:1745/1497. Added on: 13/05/2021
+Jason Adair (2005), Title-H-7, at Conference-4(Location-I), Elsevier, doi:176/1224. Added on: 23/01/2021
+Heidi Brynjolfsdottir (2016), Title-E-7, in book-g, ACM, ed: Guffy, doi:1297/445. Added on: 11/11/2021
+Kevin Bacon (2019), Title-H-8, at Conference-8(Location-Y), Elsevier, doi:1212/1395. Added on: 13/10/2021
+Saemi Haraldsson (1999), Title-H-8, in book-k, Springer, ed: Donald Duck, doi:1509/1651. Added on: 03/10/2021
+Saemi Haraldsson (2016), Title-G-9. journal-y, (vol 4, iss 7), Elsevier, doi:1677/1735. Added on: 12/01/2021
+Jason Adair (2005), Title-C-9, at Conference-2(Location-P), Springer, doi:282/965. Added on: 01/08/2021
+Heidi Brynjolfsdottir (2002), Title-E-9, in book-d, ACM, ed: Elsa, doi:1029/434. Added on: 03/09/2021
+Jason Adair (1999), Title-H-10. journal-x, (vol 9, iss 5), ACM, doi:1705/733. Added on: 29/06/2021
+Kevin Bacon (2019), Title-H-10, at Conference-1(Location-O), Springer, doi:332/224. Added on: 19/08/2021
+Heidi Brynjolfsdottir (2001), Title-H-10, in book-j, ACM, ed: Elsa, doi:1268/1734. Added on: 15/01/2021
+Heidi Brynjolfsdottir (2012), Title-E-11. journal-s, (vol 4, iss 6), IEEE, doi:1163/629. Added on: 13/07/2021
+Kevin Bacon (2005), Title-F-11, at Conference-5(Location-Y), ACM, doi:1353/1083. Added on: 13/04/2021
+Heidi Brynjolfsdottir (2015), Title-F-11, in book-a, IEEE, ed: Elsa, doi:1015/183. Added on: 13/02/2021
+Jason Adair (2000), Title-E-12. journal-q, (vol 2, iss 5), Springer, doi:67/1418. Added on: 12/02/2021
+Saemi Haraldsson (2011), Title-H-12, at Conference-4(Location-T), ACM, doi:825/1893. Added on: 24/07/2021
+Kevin Bacon (2004), Title-A-12, in book-d, ACM, ed: Elsa, doi:474/1684. Added on: 17/09/2021
+Heidi Brynjolfsdottir (2020), Title-D-13. journal-z, (vol 3, iss 3), ACM, doi:969/1735. Added on: 14/08/2021
+Jason Adair (2015), Title-B-13, at Conference-4(Location-Y), Elsevier, doi:597/1256. Added on: 29/09/2021
+Kevin Bacon (2011), Title-G-13, in book-k, Springer, ed: Ariel, doi:1164/1858. Added on: 26/08/2021
+Kevin Bacon (2011), Title-C-14. journal-t, (vol 6, iss 2), IEEE, doi:1267/1182. Added on: 02/05/2021
+Saemi Haraldsson (2006), Title-G-14, at Conference-8(Location-Y), Elsevier, doi:301/681. Added on: 11/06/2021
+Kevin Bacon (2009), Title-H-14, in book-k, Springer, ed: Donald Duck, doi:1619/631. Added on: 06/04/2021
+Kevin Bacon (2020), Title-G-15. journal-s, (vol 4, iss 1), Elsevier, doi:1241/1087. Added on: 06/06/2021
+Saemi Haraldsson (2009), Title-C-15, at Conference-4(Location-I), IEEE, doi:1226/1154. Added on: 28/01/2021
+Jason Adair (2008), Title-B-15, in book-d, ACM, ed: Mina Mouse, doi:1672/1510. Added on: 08/04/2021
+Heidi Brynjolfsdottir (2004), Title-H-16. journal-y, (vol 7, iss 7), IEEE, doi:1020/96. Added on: 12/08/2021
+Saemi Haraldsson (2006), Title-E-16, at Conference-8(Location-U), Springer, doi:520/257. Added on: 05/04/2021
+Jason Adair (2010), Title-C-16, in book-a, Elsevier, ed: Elsa, doi:88/23. Added on: 27/07/2021
+Jason Adair (2012), Title-C-17. journal-s, (vol 8, iss 7), ACM, doi:1926/268. Added on: 14/11/2021
+Saemi Haraldsson (2016), Title-H-17, at Conference-7(Location-P), Elsevier, doi:120/299. Added on: 10/06/2021
+Saemi Haraldsson (2002), Title-G-17, in book-g, ACM, ed: Ariel, doi:1230/188. Added on: 17/03/2021
+Kevin Bacon (2001), Title-F-18. journal-s, (vol 6, iss 8), ACM, doi:1866/1913. Added on: 17/04/2021
+Kevin Bacon (2006), Title-A-18, at Conference-6(Location-O), Springer, doi:572/1553. Added on: 23/02/2021
+Heidi Brynjolfsdottir (2017), Title-G-18, in book-f, ACM, ed: Mina Mouse, doi:1237/1428. Added on: 02/09/2021
+Heidi Brynjolfsdottir (2000), Title-A-19. journal-s, (vol 2, iss 9), IEEE, doi:566/238. Added on: 05/06/2021
+Saemi Haraldsson (2012), Title-E-19, at Conference-7(Location-Y), IEEE, doi:475/524. Added on: 23/10/2021
+Saemi Haraldsson (2020), Title-D-19, in book-s, Springer, ed: Guffy, doi:1244/1272. Added on: 02/07/2021
+Jason Adair (2004), Title-H-20. journal-s, (vol 1, iss 2), ACM, doi:1689/1303. Added on: 06/10/2021
+Kevin Bacon (2018), Title-A-20, at Conference-2(Location-I), ACM, doi:1322/539. Added on: 29/03/2021
+Saemi Haraldsson (2004), Title-D-20, in book-h, ACM, ed: Ariel, doi:1480/693. Added on: 19/10/2021
+Saemi Haraldsson (2016), Title-G-21. journal-s, (vol 4, iss 3), Springer, doi:336/1717. Added on: 15/04/2021
+Jason Adair (2014), Title-C-21, at Conference-2(Location-I), ACM, doi:509/1128. Added on: 15/08/2021
+Heidi Brynjolfsdottir (2003), Title-E-21, in book-a, ACM, ed: Micky Mouse, doi:270/1047. Added on: 01/03/2021
+Saemi Haraldsson (2006), Title-H-22. journal-t, (vol 2, iss 4), Springer, doi:1935/1932. Added on: 22/09/2021
+Jason Adair (2005), Title-A-22, at Conference-7(Location-U), Springer, doi:1841/748. Added on: 15/11/2021
+Kevin Bacon (2014), Title-H-22, in book-j, ACM, ed: Donald Duck, doi:1133/1335. Added on: 04/05/2021
+Heidi Brynjolfsdottir (1999), Title-C-23. journal-t, (vol 3, iss 1), IEEE, doi:720/600. Added on: 01/09/2021
+Saemi Haraldsson (2002), Title-F-23, at Conference-7(Location-P), ACM, doi:319/1720. Added on: 23/03/2021
+Heidi Brynjolfsdottir (2001), Title-A-23, in book-g, Elsevier, ed: Guffy, doi:661/1633. Added on: 24/07/2021
+Kevin Bacon (2001), Title-B-24. journal-x, (vol 4, iss 7), Springer, doi:670/896. Added on: 11/11/2021
+Jason Adair (2013), Title-G-24, at Conference-2(Location-I), ACM, doi:588/27. Added on: 14/05/2021
+Kevin Bacon (2000), Title-F-24, in book-l, IEEE, ed: Mina Mouse, doi:78/504. Added on: 15/10/2021
+Saemi Haraldsson (2005), Title-A-25. journal-s, (vol 7, iss 8), ACM, doi:1706/1126. Added on: 08/01/2021
+Kevin Bacon (2011), Title-H-25, at Conference-4(Location-P), IEEE, doi:1838/228. Added on: 23/01/2021
+Heidi Brynjolfsdottir (2000), Title-D-25, in book-j, Springer, ed: Elsa, doi:53/953. Added on: 09/01/2021
+Kevin Bacon (2003), Title-G-26. journal-z, (vol 5, iss 4), IEEE, doi:1381/1967. Added on: 23/02/2021
+Kevin Bacon (2011), Title-H-26, at Conference-5(Location-I), Elsevier, doi:192/1993. Added on: 27/09/2021
+Heidi Brynjolfsdottir (2009), Title-D-26, in book-s, IEEE, ed: Elsa, doi:332/765. Added on: 18/11/2021
+Heidi Brynjolfsdottir (2003), Title-H-27. journal-t, (vol 5, iss 2), IEEE, doi:352/1994. Added on: 20/03/2021
+Kevin Bacon (2009), Title-F-27, at Conference-7(Location-U), ACM, doi:637/833. Added on: 18/06/2021
+Jason Adair (1999), Title-D-27, in book-a, Springer, ed: Guffy, doi:74/516. Added on: 24/06/2021
+Saemi Haraldsson (2014), Title-B-28. journal-x, (vol 6, iss 1), IEEE, doi:727/505. Added on: 17/08/2021
+Jason Adair (2015), Title-C-28, at Conference-8(Location-T), Elsevier, doi:1015/1391. Added on: 22/03/2021
+Kevin Bacon (2004), Title-B-28, in book-k, ACM, ed: Donald Duck, doi:929/1911. Added on: 10/09/2021
+Heidi Brynjolfsdottir (2018), Title-B-29. journal-p, (vol 9, iss 4), ACM, doi:1917/1767. Added on: 26/06/2021
+Heidi Brynjolfsdottir (2012), Title-H-29, at Conference-2(Location-P), Elsevier, doi:1583/1873. Added on: 17/04/2021
+Saemi Haraldsson (2015), Title-A-29, in book-g, Springer, ed: Donald Duck, doi:1760/1827. Added on: 13/03/2021
+Jason Adair (2007), Title-B-30. journal-s, (vol 3, iss 7), ACM, doi:1908/1411. Added on: 08/08/2021
+Kevin Bacon (2017), Title-F-30, at Conference-2(Location-P), IEEE, doi:508/81. Added on: 19/08/2021
+Heidi Brynjolfsdottir (2005), Title-E-30, in book-h, ACM, ed: Guffy, doi:1410/101. Added on: 21/10/2021
+Heidi Brynjolfsdottir (2004), Title-C-31. journal-t, (vol 7, iss 8), Elsevier, doi:1941/1344. Added on: 18/08/2021
+Saemi Haraldsson (2018), Title-H-31, at Conference-6(Location-U), Elsevier, doi:1541/13. Added on: 18/06/2021
+Saemi Haraldsson (2016), Title-D-31, in book-f, IEEE, ed: Donald Duck, doi:1146/1097. Added on: 04/11/2021
+Saemi Haraldsson (2007), Title-B-32. journal-t, (vol 1, iss 6), Elsevier, doi:1496/184. Added on: 22/10/2021
+Kevin Bacon (2013), Title-E-32, at Conference-1(Location-R), Elsevier, doi:1989/224. Added on: 28/04/2021
+Kevin Bacon (2000), Title-H-32, in book-g, Elsevier, ed: Donald Duck, doi:582/847. Added on: 04/04/2021
+Kevin Bacon (2009), Title-A-33. journal-y, (vol 1, iss 1), Springer, doi:305/67. Added on: 06/09/2021
+Saemi Haraldsson (2019), Title-F-33, at Conference-4(Location-U), Elsevier, doi:415/1989. Added on: 13/06/2021
+Heidi Brynjolfsdottir (2004), Title-E-33, in book-h, ACM, ed: Mina Mouse, doi:1298/1689. Added on: 18/04/2021
+Jason Adair (2007), Title-D-34. journal-t, (vol 3, iss 9), Springer, doi:151/1736. Added on: 24/07/2021
+Saemi Haraldsson (2012), Title-H-34, at Conference-1(Location-O), IEEE, doi:1299/676. Added on: 07/11/2021
+Saemi Haraldsson (2020), Title-H-35. journal-s, (vol 3, iss 7), ACM, doi:1982/1433. Added on: 09/04/2021
+Kevin Bacon (2012), Title-D-35, at Conference-3(Location-Y), IEEE, doi:1062/1477. Added on: 20/11/2021
+Heidi Brynjolfsdottir (2008), Title-G-35, in book-s, Elsevier, ed: Ariel, doi:1889/889. Added on: 12/07/2021
+Heidi Brynjolfsdottir (2019), Title-G-36. journal-t, (vol 8, iss 1), IEEE, doi:732/735. Added on: 08/03/2021
+Heidi Brynjolfsdottir (2014), Title-G-36, at Conference-3(Location-Y), ACM, doi:65/1568. Added on: 05/10/2021
+Kevin Bacon (2019), Title-E-36, in book-h, ACM, ed: Guffy, doi:1316/516. Added on: 13/02/2021
+Heidi Brynjolfsdottir (2001), Title-H-37. journal-p, (vol 5, iss 4), IEEE, doi:787/1348. Added on: 11/10/2021
+Saemi Haraldsson (2008), Title-F-37, at Conference-8(Location-T), ACM, doi:1733/740. Added on: 23/11/2021
+Jason Adair (1999), Title-H-37, in book-l, Elsevier, ed: Micky Mouse, doi:712/1440. Added on: 23/07/2021
+Jason Adair (2020), Title-H-38. journal-z, (vol 4, iss 8), IEEE, doi:1734/1869. Added on: 13/10/2021
+Jason Adair (2018), Title-H-38, at Conference-7(Location-I), ACM, doi:391/1807. Added on: 22/09/2021
+Jason Adair (2003), Title-F-38, in book-a, IEEE, ed: Guffy, doi:723/904. Added on: 04/08/2021
+Jason Adair (2018), Title-A-39. journal-x, (vol 8, iss 6), IEEE, doi:410/1390. Added on: 02/08/2021
+Heidi Brynjolfsdottir (2007), Title-B-39, at Conference-8(Location-U), Elsevier, doi:1783/1750. Added on: 19/06/2021
+Kevin Bacon (2014), Title-D-39, in book-d, ACM, ed: Donald Duck, doi:1968/1488. Added on: 12/11/2021
+Jason Adair (2019), Title-G-40. journal-y, (vol 7, iss 8), ACM, doi:1228/1619. Added on: 20/11/2021
+Jason Adair (1999), Title-G-40, at Conference-7(Location-I), Springer, doi:1369/896. Added on: 10/05/2021
+Kevin Bacon (2006), Title-F-40, in book-h, Elsevier, ed: Elsa, doi:1456/1903. Added on: 09/05/2021
+Heidi Brynjolfsdottir (2015), Title-A-41. journal-z, (vol 1, iss 6), Springer, doi:892/1103. Added on: 01/01/2021
+Saemi Haraldsson (2016), Title-C-41, at Conference-7(Location-P), Elsevier, doi:1976/801. Added on: 28/03/2021
+Heidi Brynjolfsdottir (2004), Title-A-41, in book-s, Elsevier, ed: Elsa, doi:1679/1955. Added on: 24/01/2021
+Jason Adair (2001), Title-C-42. journal-t, (vol 8, iss 8), Elsevier, doi:120/843. Added on: 23/04/2021
+Saemi Haraldsson (2020), Title-H-42, at Conference-6(Location-R), IEEE, doi:534/611. Added on: 14/10/2021
+Saemi Haraldsson (2006), Title-A-42, in book-h, Elsevier, ed: Micky Mouse, doi:1759/98. Added on: 23/10/2021
+Kevin Bacon (2005), Title-E-43. journal-t, (vol 3, iss 6), Springer, doi:1218/1769. Added on: 15/08/2021
+Kevin Bacon (2002), Title-E-43, at Conference-7(Location-R), IEEE, doi:838/142. Added on: 26/06/2021
+Heidi Brynjolfsdottir (2010), Title-B-43, in book-a, Springer, ed: Guffy, doi:1053/1616. Added on: 21/06/2021
+Jason Adair (2008), Title-F-44. journal-s, (vol 5, iss 3), IEEE, doi:1485/634. Added on: 26/07/2021
+Jason Adair (2000), Title-C-44, at Conference-7(Location-U), IEEE, doi:431/1470. Added on: 01/02/2021
+Jason Adair (2010), Title-H-44, in book-j, Springer, ed: Mina Mouse, doi:1963/437. Added on: 26/09/2021
+Kevin Bacon (2019), Title-A-45. journal-t, (vol 2, iss 9), IEEE, doi:163/1536. Added on: 21/08/2021
+Saemi Haraldsson (2003), Title-A-45, at Conference-6(Location-O), IEEE, doi:1361/667. Added on: 20/10/2021
+Jason Adair (2017), Title-F-45, in book-f, Springer, ed: Mina Mouse, doi:473/1747. Added on: 08/11/2021
+Jason Adair (2018), Title-F-46. journal-p, (vol 4, iss 8), ACM, doi:1531/837. Added on: 12/04/2021
+Jason Adair (1999), Title-H-46, at Conference-6(Location-P), Elsevier, doi:926/155. Added on: 21/09/2021
+Jason Adair (2014), Title-E-46, in book-h, ACM, ed: Guffy, doi:303/501. Added on: 18/05/2021
+Jason Adair (2017), Title-A-47. journal-t, (vol 8, iss 8), ACM, doi:1097/1912. Added on: 04/04/2021
+Kevin Bacon (2020), Title-E-47, at Conference-1(Location-R), Springer, doi:222/602. Added on: 06/09/2021
+Kevin Bacon (2014), Title-C-47, in book-h, Elsevier, ed: Mina Mouse, doi:1878/1418. Added on: 07/02/2021
+Kevin Bacon (2015), Title-G-48. journal-s, (vol 1, iss 8), Elsevier, doi:639/1918. Added on: 25/03/2021
+Heidi Brynjolfsdottir (2018), Title-G-48, at Conference-1(Location-R), IEEE, doi:1625/1463. Added on: 08/01/2021
+Saemi Haraldsson (1999), Title-E-48, in book-j, Elsevier, ed: Elsa, doi:1717/746. Added on: 29/08/2021
+Heidi Brynjolfsdottir (2006), Title-G-49. journal-t, (vol 3, iss 1), Springer, doi:331/3. Added on: 22/04/2021
+Saemi Haraldsson (2001), Title-E-49, at Conference-6(Location-R), IEEE, doi:105/1463. Added on: 26/05/2021
+Heidi Brynjolfsdottir (1999), Title-E-49, in book-h, Springer, ed: Ariel, doi:1642/797. Added on: 08/05/2021
+Saemi Haraldsson (2014), Title-E-50. journal-x, (vol 7, iss 2), IEEE, doi:1319/794. Added on: 11/03/2021
+Kevin Bacon (2019), Title-F-50, at Conference-7(Location-R), Elsevier, doi:586/514. Added on: 14/06/2021
+Heidi Brynjolfsdottir (2016), Title-D-50, in book-g, IEEE, ed: Guffy, doi:516/849. Added on: 04/08/2021
+Kevin Bacon (2020), Title-B-51. journal-x, (vol 5, iss 9), Elsevier, doi:1442/1381. Added on: 24/02/2021
+Heidi Brynjolfsdottir (2002), Title-A-51, at Conference-6(Location-I), Springer, doi:378/1183. Added on: 09/02/2021
+Jason Adair (2008), Title-G-51, in book-s, Springer, ed: Elsa, doi:988/1027. Added on: 07/01/2021
+Kevin Bacon (2010), Title-C-52. journal-z, (vol 7, iss 5), Springer, doi:1832/1146. Added on: 28/08/2021
+Heidi Brynjolfsdottir (2005), Title-C-52, at Conference-2(Location-R), Elsevier, doi:984/1043. Added on: 04/06/2021
+Kevin Bacon (2005), Title-C-52, in book-h, ACM, ed: Micky Mouse, doi:1880/1715. Added on: 19/01/2021
+Kevin Bacon (2016), Title-D-53. journal-x, (vol 7, iss 4), IEEE, doi:872/1260. Added on: 19/03/2021
+Kevin Bacon (2009), Title-A-53, at Conference-3(Location-O), Elsevier, doi:1811/1036. Added on: 12/06/2021
+Jason Adair (2007), Title-F-53, in book-f, ACM, ed: Ariel, doi:1403/371. Added on: 16/02/2021
+Saemi Haraldsson (2010), Title-C-54. journal-t, (vol 5, iss 6), Springer, doi:1025/562. Added on: 09/01/2021
+Saemi Haraldsson (2014), Title-F-54, at Conference-1(Location-P), Elsevier, doi:1924/49. Added on: 27/06/2021
+Jason Adair (2001), Title-A-54, in book-h, ACM, ed: Elsa, doi:697/929. Added on: 09/04/2021
+Kevin Bacon (2006), Title-H-55. journal-x, (vol 7, iss 6), IEEE, doi:1043/1976. Added on: 27/10/2021
+Jason Adair (2019), Title-B-55, at Conference-7(Location-T), Elsevier, doi:611/180. Added on: 22/08/2021
+Saemi Haraldsson (2008), Title-D-55, in book-s, IEEE, ed: Elsa, doi:1597/1774. Added on: 03/07/2021
+Heidi Brynjolfsdottir (2007), Title-B-56. journal-s, (vol 3, iss 6), Springer, doi:1920/730. Added on: 18/04/2021
+Heidi Brynjolfsdottir (2008), Title-H-56, at Conference-8(Location-I), Springer, doi:383/412. Added on: 01/06/2021
+Jason Adair (2008), Title-B-56, in book-l, ACM, ed: Guffy, doi:1810/230. Added on: 08/03/2021
+Kevin Bacon (2006), Title-A-57. journal-t, (vol 3, iss 5), Springer, doi:442/1481. Added on: 26/04/2021
+Saemi Haraldsson (2014), Title-H-57, at Conference-8(Location-I), Springer, doi:1962/454. Added on: 01/11/2021
+Jason Adair (2007), Title-C-57, in book-a, Elsevier, ed: Mina Mouse, doi:284/632. Added on: 24/02/2021
+Heidi Brynjolfsdottir (1999), Title-F-58. journal-s, (vol 8, iss 9), ACM, doi:605/1231. Added on: 23/09/2021
+Jason Adair (2012), Title-D-58, at Conference-7(Location-P), Elsevier, doi:920/1804. Added on: 27/01/2021
+Saemi Haraldsson (2002), Title-F-58, in book-j, ACM, ed: Ariel, doi:1438/1638. Added on: 06/08/2021
+Jason Adair (2000), Title-H-59. journal-p, (vol 3, iss 2), IEEE, doi:1170/1017. Added on: 28/08/2021
+Kevin Bacon (2019), Title-D-59, at Conference-1(Location-O), Springer, doi:1637/564. Added on: 27/10/2021
+Jason Adair (2013), Title-G-59, in book-s, ACM, ed: Mina Mouse, doi:311/1008. Added on: 09/05/2021
+Kevin Bacon (2001), Title-G-60. journal-t, (vol 8, iss 9), IEEE, doi:704/457. Added on: 02/11/2021
+Heidi Brynjolfsdottir (2013), Title-E-60, at Conference-5(Location-I), Springer, doi:1894/1524. Added on: 04/06/2021
+Jason Adair (2009), Title-F-60, in book-j, IEEE, ed: Guffy, doi:814/723. Added on: 29/08/2021
+Heidi Brynjolfsdottir (2016), Title-G-61. journal-t, (vol 4, iss 5), ACM, doi:495/1076. Added on: 22/03/2021
+Saemi Haraldsson (2000), Title-B-61, at Conference-1(Location-O), Springer, doi:1804/1168. Added on: 12/03/2021
+Saemi Haraldsson (2008), Title-F-61, in book-s, ACM, ed: Micky Mouse, doi:1407/1775. Added on: 11/06/2021
+Kevin Bacon (2001), Title-H-62. journal-z, (vol 4, iss 6), ACM, doi:1092/72. Added on: 28/04/2021
+Jason Adair (2017), Title-A-62, at Conference-6(Location-R), Elsevier, doi:834/554. Added on: 26/11/2021
+Jason Adair (2007), Title-E-62, in book-g, IEEE, ed: Guffy, doi:1142/1000. Added on: 26/06/2021
+Saemi Haraldsson (2020), Title-D-63. journal-x, (vol 8, iss 9), Elsevier, doi:1178/1384. Added on: 28/09/2021
+Saemi Haraldsson (2005), Title-H-63, in book-s, ACM, ed: Guffy, doi:1942/1436. Added on: 25/06/2021
+Jason Adair (2000), Title-D-64. journal-s, (vol 3, iss 1), Elsevier, doi:821/245. Added on: 26/02/2021
+Kevin Bacon (2000), Title-H-64, at Conference-5(Location-Y), IEEE, doi:1234/1692. Added on: 22/06/2021
+Jason Adair (2003), Title-A-64, in book-g, Elsevier, ed: Guffy, doi:869/1661. Added on: 17/02/2021
+Kevin Bacon (2004), Title-G-65. journal-p, (vol 6, iss 8), ACM, doi:1651/1797. Added on: 15/01/2021
+Jason Adair (2007), Title-C-65, at Conference-8(Location-P), Elsevier, doi:84/1550. Added on: 19/03/2021
+Jason Adair (2009), Title-F-65, in book-l, Springer, ed: Donald Duck, doi:1067/1119. Added on: 16/01/2021
+Kevin Bacon (2001), Title-A-66. journal-q, (vol 8, iss 9), IEEE, doi:568/1452. Added on: 21/05/2021
+Kevin Bacon (2020), Title-G-66, at Conference-7(Location-P), Elsevier, doi:1115/448. Added on: 11/10/2021
+Saemi Haraldsson (2015), Title-F-66, in book-g, Springer, ed: Guffy, doi:1015/900. Added on: 21/07/2021
+Saemi Haraldsson (2010), Title-G-67. journal-q, (vol 6, iss 5), ACM, doi:602/1845. Added on: 22/04/2021
+Kevin Bacon (2016), Title-E-67, at Conference-3(Location-O), Springer, doi:1199/825. Added on: 19/01/2021
+Saemi Haraldsson (2000), Title-H-67, in book-f, Elsevier, ed: Mina Mouse, doi:486/167. Added on: 10/06/2021
+Kevin Bacon (2012), Title-D-68. journal-p, (vol 8, iss 2), Springer, doi:1919/1079. Added on: 12/09/2021
+Saemi Haraldsson (2003), Title-D-68, at Conference-8(Location-I), IEEE, doi:1791/1990. Added on: 22/01/2021
+Heidi Brynjolfsdottir (2019), Title-G-68, in book-k, Elsevier, ed: Elsa, doi:424/965. Added on: 04/03/2021
+Kevin Bacon (2018), Title-F-69. journal-z, (vol 4, iss 7), Elsevier, doi:305/1658. Added on: 15/05/2021
+Jason Adair (2015), Title-H-69, at Conference-7(Location-I), Elsevier, doi:1809/1975. Added on: 21/01/2021
+Heidi Brynjolfsdottir (2016), Title-A-69, in book-f, ACM, ed: Elsa, doi:1823/1224. Added on: 13/10/2021
+Heidi Brynjolfsdottir (2016), Title-B-70. journal-p, (vol 8, iss 2), Elsevier, doi:1411/894. Added on: 13/08/2021
+Kevin Bacon (2015), Title-H-70, at Conference-5(Location-Y), IEEE, doi:728/1019. Added on: 20/01/2021
+Saemi Haraldsson (2008), Title-H-70, in book-g, IEEE, ed: Elsa, doi:1441/313. Added on: 01/03/2021
+Heidi Brynjolfsdottir (2005), Title-A-71. journal-s, (vol 8, iss 9), IEEE, doi:1862/1457. Added on: 24/06/2021
+Jason Adair (2009), Title-B-71, at Conference-6(Location-I), IEEE, doi:905/905. Added on: 19/06/2021
+Heidi Brynjolfsdottir (2013), Title-F-71, in book-f, Springer, ed: Donald Duck, doi:1894/1573. Added on: 22/08/2021
+Jason Adair (2003), Title-C-72. journal-p, (vol 8, iss 3), IEEE, doi:143/1861. Added on: 04/05/2021
+Heidi Brynjolfsdottir (2017), Title-H-72, at Conference-5(Location-R), IEEE, doi:266/1642. Added on: 02/01/2021
+Jason Adair (2004), Title-C-72, in book-j, Springer, ed: Elsa, doi:1938/1761. Added on: 07/03/2021
+Saemi Haraldsson (2018), Title-H-73. journal-y, (vol 9, iss 1), Springer, doi:1755/542. Added on: 15/01/2021
+Saemi Haraldsson (2019), Title-E-73, at Conference-1(Location-U), IEEE, doi:1521/857. Added on: 10/09/2021
+Jason Adair (2009), Title-C-74. journal-q, (vol 6, iss 3), ACM, doi:251/781. Added on: 28/10/2021
+Saemi Haraldsson (2006), Title-H-74, at Conference-7(Location-I), Springer, doi:905/994. Added on: 14/08/2021
+Jason Adair (2013), Title-A-74, in book-f, ACM, ed: Elsa, doi:1263/1217. Added on: 23/02/2021
+Heidi Brynjolfsdottir (2019), Title-B-75. journal-t, (vol 5, iss 2), IEEE, doi:1954/1902. Added on: 29/07/2021
+Saemi Haraldsson (2020), Title-H-75, at Conference-7(Location-U), Elsevier, doi:588/1689. Added on: 01/04/2021
+Heidi Brynjolfsdottir (2005), Title-D-75, in book-g, Springer, ed: Donald Duck, doi:873/501. Added on: 19/08/2021
+Kevin Bacon (2020), Title-D-76. journal-p, (vol 7, iss 4), Springer, doi:1927/1140. Added on: 28/02/2021
+Heidi Brynjolfsdottir (1999), Title-H-76, at Conference-3(Location-Y), ACM, doi:796/718. Added on: 21/08/2021
+Kevin Bacon (2017), Title-E-76, in book-j, IEEE, ed: Guffy, doi:197/1583. Added on: 29/08/2021
+Heidi Brynjolfsdottir (2007), Title-D-77. journal-p, (vol 2, iss 5), Elsevier, doi:1375/420. Added on: 13/04/2021
+Heidi Brynjolfsdottir (2002), Title-F-77, at Conference-4(Location-Y), IEEE, doi:1768/1709. Added on: 20/10/2021
+Jason Adair (2006), Title-C-77, in book-j, IEEE, ed: Guffy, doi:883/1239. Added on: 01/03/2021
+Jason Adair (2007), Title-C-78. journal-z, (vol 7, iss 4), ACM, doi:1611/707. Added on: 28/06/2021
+Kevin Bacon (2002), Title-H-78, at Conference-7(Location-R), ACM, doi:434/1456. Added on: 21/06/2021
+Kevin Bacon (2004), Title-A-78, in book-j, IEEE, ed: Elsa, doi:1159/527. Added on: 23/08/2021
+Kevin Bacon (2012), Title-G-79. journal-x, (vol 7, iss 7), Springer, doi:1539/1238. Added on: 07/10/2021
+Jason Adair (2018), Title-H-79, at Conference-7(Location-O), Springer, doi:739/494. Added on: 15/07/2021
+Jason Adair (2017), Title-B-79, in book-k, Springer, ed: Elsa, doi:1336/1136. Added on: 02/10/2021
+Jason Adair (1999), Title-B-80. journal-y, (vol 8, iss 7), Elsevier, doi:585/1782. Added on: 15/04/2021
+Jason Adair (2019), Title-C-80, at Conference-8(Location-O), IEEE, doi:164/1051. Added on: 19/04/2021
+Saemi Haraldsson (2010), Title-F-80, in book-d, Elsevier, ed: Mina Mouse, doi:1248/221. Added on: 13/04/2021
+Kevin Bacon (2006), Title-E-81. journal-t, (vol 5, iss 3), Springer, doi:1168/551. Added on: 18/07/2021
+Kevin Bacon (2018), Title-A-81, at Conference-6(Location-O), ACM, doi:1176/406. Added on: 03/03/2021
+Kevin Bacon (2013), Title-G-81, in book-h, Elsevier, ed: Elsa, doi:538/1521. Added on: 27/08/2021
+Kevin Bacon (2011), Title-D-82. journal-t, (vol 9, iss 7), ACM, doi:1696/593. Added on: 27/07/2021
+Saemi Haraldsson (2017), Title-B-82, at Conference-4(Location-I), Elsevier, doi:1088/1771. Added on: 14/07/2021
+Saemi Haraldsson (2010), Title-A-82, in book-l, ACM, ed: Ariel, doi:1949/113. Added on: 22/11/2021
+Kevin Bacon (2000), Title-C-83. journal-y, (vol 1, iss 8), ACM, doi:1389/441. Added on: 17/11/2021
+Saemi Haraldsson (2002), Title-F-83, at Conference-3(Location-P), IEEE, doi:1872/390. Added on: 11/02/2021
+Jason Adair (2008), Title-G-83, in book-l, IEEE, ed: Ariel, doi:416/485. Added on: 06/03/2021
+Saemi Haraldsson (2016), Title-E-84. journal-z, (vol 4, iss 7), Elsevier, doi:385/1099. Added on: 09/07/2021
+Saemi Haraldsson (2019), Title-G-84, at Conference-4(Location-U), Elsevier, doi:1819/292. Added on: 17/09/2021
+Jason Adair (2000), Title-A-84, in book-h, IEEE, ed: Mina Mouse, doi:1413/1824. Added on: 11/03/2021
+Saemi Haraldsson (2012), Title-D-85. journal-p, (vol 6, iss 3), IEEE, doi:1982/763. Added on: 20/02/2021
+Saemi Haraldsson (2011), Title-G-85, at Conference-3(Location-R), Springer, doi:811/875. Added on: 01/02/2021
+Saemi Haraldsson (2007), Title-C-85, in book-s, Elsevier, ed: Elsa, doi:113/37. Added on: 23/02/2021
+Jason Adair (1999), Title-A-86. journal-t, (vol 1, iss 6), ACM, doi:1850/88. Added on: 14/09/2021
+Jason Adair (2014), Title-B-86, at Conference-6(Location-U), IEEE, doi:1215/415. Added on: 19/02/2021
+Heidi Brynjolfsdottir (1999), Title-A-86, in book-j, ACM, ed: Micky Mouse, doi:605/1963. Added on: 06/05/2021
+Saemi Haraldsson (2005), Title-A-87. journal-q, (vol 6, iss 6), Elsevier, doi:595/676. Added on: 17/03/2021
+Jason Adair (2014), Title-A-87, at Conference-8(Location-R), ACM, doi:1421/922. Added on: 02/10/2021
+Kevin Bacon (2001), Title-F-87, in book-s, IEEE, ed: Ariel, doi:649/586. Added on: 22/06/2021
+Heidi Brynjolfsdottir (2004), Title-D-88. journal-p, (vol 4, iss 3), ACM, doi:291/1750. Added on: 16/04/2021
+Jason Adair (2019), Title-G-88, at Conference-7(Location-T), ACM, doi:1018/510. Added on: 16/10/2021
+Jason Adair (2000), Title-G-88, in book-k, Elsevier, ed: Donald Duck, doi:229/1461. Added on: 19/11/2021
+Kevin Bacon (2003), Title-F-89. journal-q, (vol 4, iss 8), IEEE, doi:166/1052. Added on: 08/03/2021
+Saemi Haraldsson (2006), Title-F-89, at Conference-7(Location-O), IEEE, doi:462/647. Added on: 28/09/2021
+Heidi Brynjolfsdottir (2006), Title-D-89, in book-l, Elsevier, ed: Mina Mouse, doi:1549/631. Added on: 14/10/2021
+Saemi Haraldsson (2018), Title-E-90. journal-t, (vol 9, iss 1), Elsevier, doi:1704/29. Added on: 26/11/2021
+Saemi Haraldsson (2020), Title-E-90, at Conference-4(Location-R), Springer, doi:1968/996. Added on: 27/02/2021
+Kevin Bacon (2016), Title-H-90, in book-l, Springer, ed: Elsa, doi:554/1524. Added on: 19/10/2021
+Kevin Bacon (1999), Title-E-91. journal-y, (vol 8, iss 8), ACM, doi:1379/152. Added on: 27/11/2021
+Heidi Brynjolfsdottir (2011), Title-B-91, at Conference-1(Location-U), Elsevier, doi:683/392. Added on: 14/03/2021
+Jason Adair (2003), Title-H-91, in book-h, ACM, ed: Guffy, doi:782/63. Added on: 12/04/2021
+Jason Adair (2003), Title-F-92. journal-z, (vol 9, iss 3), Springer, doi:456/1076. Added on: 12/02/2021
+Jason Adair (2006), Title-A-92, at Conference-1(Location-U), ACM, doi:1540/1164. Added on: 01/10/2021
+Saemi Haraldsson (2010), Title-B-92, in book-h, Springer, ed: Micky Mouse, doi:547/561. Added on: 12/06/2021
+Heidi Brynjolfsdottir (2018), Title-H-93. journal-q, (vol 2, iss 1), Springer, doi:117/659. Added on: 14/01/2021
+Jason Adair (2016), Title-E-93, at Conference-2(Location-T), IEEE, doi:1111/1710. Added on: 23/05/2021
+Kevin Bacon (2002), Title-D-93, in book-l, Elsevier, ed: Mina Mouse, doi:593/1504. Added on: 14/06/2021
+Jason Adair (2002), Title-H-94. journal-y, (vol 4, iss 3), Springer, doi:1545/1287. Added on: 15/06/2021
+Heidi Brynjolfsdottir (2013), Title-B-94, in book-h, IEEE, ed: Donald Duck, doi:1285/1098. Added on: 10/04/2021
+Kevin Bacon (2006), Title-H-95. journal-s, (vol 3, iss 2), Springer, doi:1580/838. Added on: 15/02/2021
+Kevin Bacon (2020), Title-G-95, at Conference-6(Location-I), Springer, doi:240/1348. Added on: 22/03/2021
+Saemi Haraldsson (2017), Title-A-95, in book-f, IEEE, ed: Guffy, doi:1011/141. Added on: 03/07/2021
+Saemi Haraldsson (2010), Title-B-96. journal-z, (vol 4, iss 9), ACM, doi:1241/866. Added on: 17/07/2021
+Saemi Haraldsson (2013), Title-G-96, at Conference-5(Location-Y), Springer, doi:1223/505. Added on: 16/07/2021
+Kevin Bacon (1999), Title-B-96, in book-k, Elsevier, ed: Micky Mouse, doi:1083/615. Added on: 28/10/2021
+Saemi Haraldsson (2020), Title-D-97. journal-q, (vol 5, iss 6), Elsevier, doi:1456/888. Added on: 24/04/2021
+Saemi Haraldsson (2017), Title-D-97, at Conference-5(Location-P), ACM, doi:118/1472. Added on: 01/06/2021
+Kevin Bacon (2000), Title-F-97, in book-d, IEEE, ed: Guffy, doi:12/1513. Added on: 07/07/2021
+Kevin Bacon (2000), Title-A-98, at Conference-4(Location-T), Springer, doi:935/1309. Added on: 26/07/2021
+Jason Adair (2005), Title-G-98, in book-h, Elsevier, ed: Mina Mouse, doi:1841/786. Added on: 04/01/2021
+Heidi Brynjolfsdottir (2003), Title-D-99, at Conference-2(Location-P), Elsevier, doi:1839/1726. Added on: 06/08/2021
+Jason Adair (2005), Title-H-99, in book-g, Elsevier, ed: Ariel, doi:1795/606. Added on: 29/10/2021
